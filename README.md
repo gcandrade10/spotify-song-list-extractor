@@ -8,6 +8,7 @@ This is a Wip but now given a spotify playlist id you can get the complete song 
 it's based on [spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) 
 So you need to install it first:
 >$ npm install spotify-web-api-node --save
+
 Then you just need to optain your **clientId** and **clientSecret** from the [spotify dev page](https://developer.spotify.com/dashboard/)
 Then you need an **access_token**:
 To obtain the access_token you nedd to send the clientId:clientSecret encoded in Base 64
